@@ -1,0 +1,45 @@
+- name: Dr Daniel Barreto PhD, MSc, DIC, FHEA
+  photo: Daniel-Barreto-e1580403213469.jpg
+  info: Numerical simulation (DEM), advanced laboratory testing
+  email: d.barreto@napier.ac.uk
+  number_educ: 3
+  education1: PhD Soil Mechanics at Imperial College London
+  education2: MSc Soil Mechanics and Engineering Seismology at Imperial College London
+  education3: BEng Civil Engineering at Universidad de los Andes (Colombia)
+
+- name: Dr Juan Bernal-Sanchez PhD
+  photo: Juan_Bernal.jpg
+  info: Geotechnical earthquake engineering, geotechnical isolation systems
+  email: j.bernal-sanchez@napier.ac.uk
+  number_educ: 3
+  education1: PhD Geotechnical Earthquake Engineering at Edinburgh Napier University
+  education2: MEng Civil Engineering at Edinburgh Napier University
+  education3: BEng Civil Engineering at Universidad Politecnica de Cartagena (Spain) 
+
+- name: Dr Vicky Dimitriadi PhD
+  photo: Vicky_Dimitriadi.jpg
+  info: Geotechnical Earthquake Engineering, earthquake induced settlements, dynamic behaviour of shallow foundations
+  email: v.dimitriadi@napier.ac.uk
+  number_educ: 2
+  education1: PhD Geotechnical Engineering at National Technical University of Athens (Greece)
+  education2: BEng Civil Engineering at National Technical University of Athens (Greece)
+
+- name: Dr James Leak PhD
+  photo: James_Leak.jpg
+  info: Numerical simualtion (DEM), micro-scale effects and characterisation
+  email: j.leak@napier.ac.uk
+  number_educ: 2
+  education1: PhD Geotechnical Engineering at Edinburgh Napier University
+  education2: BEng Civil Engineering at Edinburgh Napier University
+
+- name: Dr John McDougall PhD
+  photo: John_McDougall.jpg
+  info: Hydro-Bio-Mechanical(HBM) modelling  of soils, biodegradable soils, geotechnical earthquake engineering 
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 2
+  education1: PhD Geotechnical Engineering at University of Manchester
+  education2: MSc Geotechnical Engineering at Bolton University 
+
+
+
+

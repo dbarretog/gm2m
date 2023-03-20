@@ -1,0 +1,20 @@
+- title: "Quantifying Particle Breakage and Its Evolution Using Breakage Indices and Grading Entropy Coordinates"
+  image: fraction.png
+  description: In this study, grading entropy coordinates are compared to three commonly used breakage indices (Br, Br* and IG). It is shown that grading entropy coordinates are advantageous over the traditional indices in quantifying subtle changes in the PSD evolution and directly provide further insight with regards to the individual fraction sizes.
+  authors: Leak, J., Barreto, D., Dimitriadi, D. & Imre, E.
+
+  link:
+    url: https://www.mdpi.com/2673-7094/2/4/52
+    display: https://doi.org/10.3390/geotechnics2040052
+  highlight: 1
+
+- title: "Dynamic Behaviour of a Geotechnical Seismic Isolation System with Rubber-Sand Mixtures to Enhance Seismic Protection"
+  image: attenuation.jpg
+  description: A Geotechnical Seismic Isolation (GSI) system is proposed in this study based on the use of Rubber-Soil mixtures (RSm) to facilitate the benefits of dynamic soil-foundation structure interaction. The results have shown that the rubber addition results in a reduction of the amplification at frequencies higher than the system natural frequency.
+  authors: Bernal-Sanchez, J., McDougall, J., Miranda-Manzanares, M., & Barreto, D.
+  link:
+    url: http://researchrepository.napier.ac.uk/Output/2915466
+    display: 3rd European Conference on Earthquake Engineering & Seismology (2022)
+  highlight: 1
+  
+
