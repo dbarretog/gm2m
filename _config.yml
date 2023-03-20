@@ -10,8 +10,8 @@ title: GM2M
 email: d.barreto@napier.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Website of GM2M.
-baseurl: "/gm2m"
-url: "https://dbarretog.github.io"
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
