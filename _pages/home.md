@@ -32,10 +32,10 @@ rubber-sand-mixtures, dissolving soils, and biodegradabale materials, amongst ot
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SRmxRay.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RubberSEM.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RubberSEM.JPG" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RSm_layers_vs_RSm_piles.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RSm_layers_vs_RSm_piles.JPG" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/James_&_Peat.jpg" alt="Slide 4" />
