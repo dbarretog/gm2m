@@ -24,6 +24,14 @@
   education1: PhD Geotechnical Engineering at National Technical University of Athens (Greece)
   education2: BEng Civil Engineering at National Technical University of Athens (Greece)
 
+- name: Mr Willie Laing
+  photo: Willie_Laing.jpg
+  info: Builder of GM2M's academic dreams 
+  email: w.laing@napier.ac.uk
+  number_educ: 2
+  education1: Deputy Technical Service Manager
+  education2: Soil's Laboratory Technician
+
 - name: Dr James Leak PhD
   photo: James_Leak.jpg
   info: Numerical simualtion (DEM), micro-scale effects and characterisation
@@ -35,7 +43,7 @@
 - name: Dr John McDougall PhD
   photo: John_McDougall.jpg
   info: Hydro-Bio-Mechanical(HBM) modelling  of soils, biodegradable soils, geotechnical earthquake engineering 
-  email: benschop@physics.leidenuniv.nl
+  email: j.mcdougall@napier.ac.uk
   number_educ: 2
   education1: PhD Geotechnical Engineering at University of Manchester
   education2: MSc Geotechnical Engineering at Bolton University 
