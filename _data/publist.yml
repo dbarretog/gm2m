@@ -1,20 +1,394 @@
+- title: "Rubber-soil mixtures: use of grading entropy theory to evaluate stiffness and liquefaction susceptibility"
+  image: BEE2023.jpg
+  description: If you are interested on seeing how rubber content in rubber-sand mixtures (RSm) affects liquefaction susceptibility, stiffness and geomechanical behaviour, then this is a must read. We have used Juan Bernal-Sanchez's PhD data together with existing literature to investigate teh relationship between the PSD characteristics of RSm and their stiffness and susceptibility to liquefaction.
+  authors: Bernal-Sanchez, J., Leak, J. & Barreto, D.
+  link:
+    url: https://link.springer.com/article/10.1007/s10518-023-01673-3
+    display: Bulletin of Earthquake Engineering (2023)
+  highlight: 1
+  
 - title: "Quantifying Particle Breakage and Its Evolution Using Breakage Indices and Grading Entropy Coordinates"
   image: fraction.jpg
   description: In this study, grading entropy coordinates are compared to three commonly used breakage indices (Br, Br* and IG). It is shown that grading entropy coordinates are advantageous over the traditional indices in quantifying subtle changes in the PSD evolution and directly provide further insight with regards to the individual fraction sizes.
-  authors: Leak, J., Barreto, D., Dimitriadi, D. & Imre, E.
-
+  authors: Leak, J., Barreto, D., Dimitriadi, V. & Imre, E.
   link:
     url: https://www.mdpi.com/2673-7094/2/4/52
-    display: https://doi.org/10.3390/geotechnics2040052
+    display: Geotechnics 2(4), 1109-1126 (2022)
   highlight: 1
+
+- title: "Civil Engineering Graduate Apprenticeships: A feasibility study into development of an MSc programme based on review of current undergraduate provision"
+  authors: Leitch, K., Bernal-Sanchez, J. & Macfarlane, R.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/2972771                        
+    display: Proceedings of the 8th International Symposium for Engineering Education (2022)
+  highlight: 0
 
 - title: "Dynamic Behaviour of a Geotechnical Seismic Isolation System with Rubber-Sand Mixtures to Enhance Seismic Protection"
   image: attenuation.JPG
   description: A Geotechnical Seismic Isolation (GSI) system is proposed in this study based on the use of Rubber-Soil mixtures (RSm) to facilitate the benefits of dynamic soil-foundation structure interaction. The results have shown that the rubber addition results in a reduction of the amplification at frequencies higher than the system natural frequency.
-  authors: Bernal-Sanchez, J., McDougall, J., Miranda-Manzanares, M., & Barreto, D.
+  authors: Bernal-Sanchez, J., McDougall, J., Miranda, M. & Barreto, D.
   link:
     url: http://researchrepository.napier.ac.uk/Output/2915466
     display: 3rd European Conference on Earthquake Engineering & Seismology (2022)
   highlight: 1
-  
 
+- title: "Environmental Geotechnics. Editorial"
+  authors: McDougall, J.
+  link:
+    url: https://www.icevirtuallibrary.com/doi/10.1680/jenge.2022.9.2.66
+    display: Environmental Geotechnics, 9(2), 66-67 (2022)
+  highlight: 0
+
+- title: "A guide to modeling the geotechnical behavior of soils using the discrete element method"
+  image: DEM2021.jpg
+  description: Thinking about using DEM and without enough time to read an entire book? This is a good place to start!
+  authors: Barreto, D. & Leak, J.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/B9780128212059000162?via%3Dihub
+    display: Modeling in Geotechnical Engineering, Chapter 4, 79-100 (2021)
+  highlight: 1
+
+- title: "Housing Construction On Peatland"
+  authors: Bernal-Sanchez, J., McDougall, J., Medero, G., Cook, D. & Barreto, D.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/2963133                                           
+    display: Phase 1 Report. Construction Scotland Innovation Centre (2021)
+  highlight: 0
+
+- title: "Waste-composition-dependent 'HBM' model parameters based on degradation experiments"
+  authors: Datta, S., Zekkos, D., Fei, X. & McDougall, J.
+  link:
+    url: https://www.icevirtuallibrary.com/doi/10.1680/jenge.18.00014                                          
+    display: Environmental Geotechnics, 8(2), 124-133 (2021)
+  highlight: 0
+
+- title: "Revisiting Hardin’s parameters for the quantification of particle breakage – A statistical entropy approach"
+  authors: Leak, J., Barreto, D., Dimitriadi, V. & Imre, E.
+  link:
+    url: https://www.epj-conferences.org/articles/epjconf/abs/2021/03/epjconf_pg2021_07001/epjconf_pg2021_07001.html                                         
+    display: Powders & Granis. EPJ Web of Conferences 249, 07001 (2021)
+  highlight: 0
+
+- title: "Numerical modeling of coupled biochemical and thermal behavior of municipal solid waste in landfills"
+  image: HBM2020.jpg
+  description: A coupled bio-thermal (BT) model is proposed and validated for the prediction of long-term biochemical and thermal behavior of municipal solid waste (MSW) in landfills. The results show that incorporating the effect of temperature of waste in the modeling of biodegradation of waste in landfills plays a significant role in realistically predicting the long-term biochemical and thermal regime in MSW landfills. The proposed BT model captures the key trends in the landfill gas (LFG) production and waste temperatures typically observed in actual full-scale landfills. 
+  authors: Kumar, G., Reddy, K. R. & McDougall, J. 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0266352X20303992?via%3Dihub                                         
+    display: Computers and Geotechnics, 128, 103836 (2020)
+  highlight: 1
+
+- title: "Cyclic performance of rubber-soil mixtures to enhance seismic protection"
+  authors: Bernal-Sanchez, J.
+  link:
+    url: https://napier-repository.worktribe.com/output/2683555/cyclic-performance-of-rubber-soil-mixtures-to-enhance-seismic-protection                                          
+    display: PhD thesis (2020)
+  highlight: 0
+
+- title: "Particle-scale interaction in sand-rubber mixtures and their influence on energy dissipation mechanisms"
+  authors: Fonseca, J., Riaz, A., Bernal-Sanchez, J., Barreto, D., McDougall, J., Miranda, M., Marinelli, A. & Dimitriadi, V.
+  link:
+    url: https://www.icevirtuallibrary.com/doi/10.1680/jgele.18.00221
+    display: Géotechnique Letters 9(4), 263-268 (2019)
+  highlight: 0
+
+- title: "Use of compaction grouting as ground improvement technique in compressible solid waste landfill"
+  authors: Tsitsas, G., Dimitriadi, V., Barreto, D. & Ciortan, R.
+  link:
+    url: https://www.issmge.org/uploads/publications/51/75/0292-ecsmge-2019_Tsitsas.pdf
+    display: Proceedings of the XVII European Conference on Soil Mechanics and Geotechnical Engineering (2019)
+  highlight: 0
+  
+- title: "Grading entropy coordinates and criteria for evaluation of liquefaction potential"
+  authors: Barreto, D., Leak, J., Dimitriadi, V., McDougall, J., Imre, E. & Lőrincz, J.
+  link:
+    url: https://www.taylorfrancis.com/books/edit/10.1201/9780429031274/earthquake-geotechnical-engineering-protection-development-environment-constructions-francesco-silvestri-nicola-moraci
+    display: Proceedings of the 7th International Conference on Earthquake Geotechnical Engineering (2019)
+  highlight: 0
+  
+- title: "Experimental assessment of stiffness and damping in rubber-sand mixtures at various strain levels"
+  authors: Bernal-Sanchez, J., McDougall, J., Barreto, D., Marinelli, A., Dimitriadi, V., Anbazhagan, P. & Miranda, M.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1906112                                                                
+    display: Earthquake Geotechnical Engineering for Protection and Development of Environment and Constructions, 1403-1410 (2019)
+  highlight: 0
+
+- title: "Particle loss :  An initial investigation into size effects and stress-dilatancy"
+  authors: McDougall, J., Kelly, D. & Barreto, D.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0038080619300587?via%3Dihub                                                               
+    display: Soils and Foundations, 59(3), 726-737 (2019)
+  highlight: 0
+  
+- title: "Dynamic behaviour of shredded rubber soil mixtures"
+  authors: Bernal-Sanchez, J., McDougall, J., Barreto, D., Miranda, M. & Marinelli, A.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1178811                                                                                      
+    display: Proceedings of the 16th European Conference in Earthquake Engineering (2018)
+  highlight: 0
+
+- title: "Strategies for one dimensional (1D) compression testing of large-particle-sized tire derived aggregate"
+  authors: Adesokan, D., Fleming, I., Hammerlindl, A. & McDougall, J.
+  link:
+    url: https://www.astm.org/gtj20170091.html                                                                                     
+    display: Geotechnical Testing Journal, 42(5), 1336-1358 (2018)
+  highlight: 0
+
+- title: "Design and evaluation of earthquake risk reduction measures in unplanned urban areas"
+  authors: Dimitriadi, V.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1702393                                                                                                              
+    display: Paper presented at Geohazard Risk Reduction in Unplanned Urban Areas, Caldas Novas, Brazil (2018)
+  highlight: 0
+
+- title: "Seismic liquefaction performance of strip foundations - Effect of ground improvement dimensions"
+  authors: Dimitriadi, V., Bouckovalas, G.D., Chaloulos, Y. K. & Aggelis, A.S. 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0267726117300179?via%3Dihub                                                                                                           
+    display: Soil Dynamics and Earthquake Engineering, 106, 298-307 (2018)
+  highlight: 0
+
+- title: "Estimating degradation-related settlement in two landfill-reclaimed soils by sand-salt analogues"
+  authors: McDougall, J., Fleming, I., Thiel, R., Dewaele, P., Parker, D. & Kelly, D. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0956053X18302307?via%3Dihub                                                                                                           
+    display: Waste Management, 77, 294-303 (2018)
+  highlight: 0
+
+- title: "Review and application of a settlement model for landfills"
+  authors: Esteban-Altabella, J., McDougall, J., Colomer-Mendoza, F., Gallardo, A. & Edo-Alcon, N.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/989942                                                                                                                                
+    display: International Waste and Landfill Symposium Proceedings (2017)
+  highlight: 0
+
+- title: "Seismic performance of strip foundations on liquefiable soils with a permeable crust"
+  authors: Dimitriadi, V., Bouckovalas, G. & Papadimitriou, A.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0267726117304232?via%3Dihub                                                                                                         
+    display: Soil Dynamics and Earthquake Engineering, 100, 396-409 (2017)
+  highlight: 0
+
+- title: "Experimental Assessment and Modelling of Coupled Biochemical-Physical-Mechanical Biodegradation Process of a Municipal Solid Waste Sample from Michigan"
+  authors: Datta, S., Zekkos, D., Fei, X. & McDougall, J. 
+  link:
+    url: http://researchrepository.napier.ac.uk/output/948531                                                                                                                                
+    display: Second International Symposium on Coupled Phenomena in Environmental Geotechnics (2017)
+  highlight: 0
+
+- title: "Numerical analysis of liquefaction affected shallow foundations performance on improved ground"
+  authors: Dimitriadi, V., Bouckovalas, G. & Chaloulos, Y.
+  link:
+    url:  http://researchrepository.napier.ac.uk/output/1182216                                                                                                                                
+    display: XVI European Conference on Soil Mechanics and Geotechnical Engineering (2015)
+  highlight: 0
+
+- title: "Analysis of strip foundation performance on liquefied ground with limited ground improvement"
+  authors: Dimitriadi, V., & Bouckovalas, G. 
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1182233                                                                                                                                                       
+    display: XVI European Conference on Soil Mechanics and Geotechnical Engineering (2015)
+  highlight: 0
+
+- title: "Dynamic compaction of collapsible soils – case study from a motorway project in Romania"
+  authors: Tsitsas, G., Dimitriadi, V., Zekkos, D., Dumitru, M., Ciortan, R. & Manea, S.  
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1182143                                                                                                                                                                             
+    display: XVI European Conference on Soil Mechanics and Geotechnical Engineering (2015)
+  highlight: 0
+
+- title: "An overview of research activities and achievement in Geotechnics from the Scottish Universities Geotechnics Network (SUGN)"
+  authors: Leung, A.K., Anastasopoulos, I.X., Augarde, C. Barreto, D., Brennan, A.J., Brown, M.J., Connolly, D., Coombs, W.M., Davies, T., Gao, Z., Ivanovic, A., Kenny, M.J., Knappett, J.A., Lombardi, D., McDougall, J., Medero, G.M., Wood, D.M., El Mountassir, G., Osman, A.S., Pytharouli, S., Sentenac, P., Stewart, B., Switzer, C., Tarantino, A., Wheeler, S.J., Woodward, P.K. & Zielinski, M. 
+  link:
+    url: https://www.icevirtuallibrary.com/doi/abs/10.1680/ecsmge.60678.vol7.679                                                                                                                                                                            
+    display: XVI European Conference on Soil Mechanics and Geotechnical Engineering (2015)
+  highlight: 0
+
+- title: "Numerical simulation of seismically induced settlements of shallow foundations on remediated ground against liquefaction"
+  authors: Dimitriadi, V. & Bouckovalas, G.  
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/1182157                                                                                                                                                                                                   
+    display: Paper presented at International Conference on Earthquake Geotechnical Engineering - From Case History to Practice (2013)
+  highlight: 0
+
+- title: "Mass loss and volume change : From sand-salt analogues to MSW"
+  authors: McDougall, J., Fleming, I., Thiel, R., Dewaele, P., Parker, D. & Kelly, D.  
+  link: 
+    url: https://www.rthiel.com/uploads/ngrey/002%202013%20McDougal%20Flemming%20Thiel%20et%20al%202013.pdf                                                                                                                                                                                                  
+    display: First International Symposium on Coupled Phenomena in Environmental Geotechnics (2013)
+  highlight: 0
+
+- title: "Volumetric consequences of particle loss by grading entropy"
+  authors: McDougall, J., Imre, E., Barreto, D. & Kelly, D.  
+  link: 
+    url: https://www.icevirtuallibrary.com/doi/10.1680/geot.SIP13.T.002                                                                                                                                                                                               
+    display: Géotechnique, 63(3), 262-266 (2013)
+  highlight: 0
+
+- title: "Particle loss and volume change on dissolution : experimental results and analysis of particle size and amount effects"
+  authors: McDougall, J., Kelly, D., & Barreto, D. 
+  link: 
+    url: https://link.springer.com/article/10.1007/s11440-013-0212-0                                                                                                                                                                                            
+    display: Acta Geotechnica, 8, 619–627 (2013)
+  highlight: 0
+
+- title: "Effect of particle loss on soil behaviour"
+  authors: Kelly, D., McDougall, J. & Barreto, D.
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/281111                                                                                                                                                                                                                                                
+    display: 6th International Conference on Scour and Erosion (2012)
+  highlight: 0
+
+- title: "Gravel drain performance in liquefiable soils - Numerical simulation and applicability"
+  authors: Bouckovalas, G., Papadimitriou, A. & Dimitriadi, V. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/1182163                                                                                                                                                                                                                         
+    display: Paper presented at 2nd International Conference on Performance-Based Design in Earthquake Geotechnical Engineering (2012)
+  highlight: 0
+
+- title: "Settlement -The short and the long of it"
+  authors: McDougall, J.
+  link: 
+    url: https://ascelibrary.org/doi/10.1061/41146%28395%293                                                                                                                                                                                                                       
+    display: Geotechnical Characterization, Field Measurement, and Laboratory Testing of Municipal Solid Waste (2012)
+  highlight: 0
+
+- title: "Numerical simulation of drain performance in liquefiable soils"
+  authors: Bouckovalas, G., Dimitriadi, V., Tsiapas, Y. & Tsioulou, A.
+  link: 
+    url:  http://researchrepository.napier.ac.uk/output/1182188                                                                                                                                                                                                                                               
+    display: Paper presented at 5th International Conference on Earthquake Geotechnical Engineering (2011)
+  highlight: 0
+
+- title: "Parametric investigation of lateral spreading in free-face ground formations"
+  authors: Valsamis, A., Bouckovalas, G. & Dimitriadi, V.
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/1182194                                                                                                                                                                                                                                                                     
+    display: Paper presented at 5th International Conference on Recent Advances in Geotechnical Engineering and Soil Dynamics (2010)
+  highlight: 0
+
+- title: "Issues of geotechnical engineering and soil – monument interaction"
+  authors: Bouckovalas, G., Gazetas, G., Pitilakis, K., Konstantopoulos, I., Kavvadas, M., Anastasopoulos, I. & Dimitriadi, V.
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/1848679                                                                                                                                                                                                                                                                                           
+    display: Technical Report. Earthquake Planning & Protection Organisation of Greece (2009)
+  highlight: 0
+
+- title: "Waste heterogeneity: an obstacle to models?"
+  authors: McDougall, J. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/224984                                                                                                                                                                                                                                                                                                                 
+    display: 12th International Waste Management and Landfill Symposium (2009)
+  highlight: 0
+
+- title: "Fail-safe engineering for landfill aftercare : towards sustainable waste management?"
+  authors: Hall, D. H., Drury, D. & McDougall, J.  
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/233269                                                                                                                                                                                                                                                                                                                                        
+    display: Geological Society Special Publication (2008)
+  highlight: 0
+
+- title: "Landfill modelling challenge : HBM modelling predictions"
+  authors: McDougall, J.  
+  link: 
+    url: https://www.icevirtuallibrary.com/doi/10.1680/warm.2008.161.4.147                                                                                                                                                                                                                                                                                                                                       
+    display: Proceedings of the Institution of Civil Engineers - Waste and Resource Management, 161(4), 147-153 (2008)
+  highlight: 0
+
+- title: "Geomechanics and long-term landfill settlement"
+  authors: McDougall, J.  
+  link: 
+    url: https://doi.org/10.1061/40970(309)24                                                                                                                                                                                                                                                                                                                                      
+    display: GeoCongress 2008 - Geotechnics of Waste Management and Remediation (2008)
+  highlight: 0
+
+- title: "A hydro-bio-mechanical model for settlement and other behaviour in landfilled waste"
+  authors: McDougall, J.
+  link: 
+    url: https://doi.org/10.1016/j.compgeo.2007.02.004                                                                                                                                                                                                                                                                                                              
+    display: Computers and Geotechnics, 34(4), 229-246 (2007)
+  highlight: 0
+
+- title: "Numerical evaluation of lateral spreading displacements in layered soils"
+  authors: Valsamis, A., Bouckovalas, G. & Dimitriadi, V.
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/1182200                                                                                                                                                                                                                                                                                                                
+    display: Paper presented at 4th International Conference on Earthquake Geotechnical Engineering (2007)
+  highlight: 0
+
+- title: "Predicting long-term settlement of landfills using a fundamental model of waste behaviour"
+  authors: Needham, A., Fownes, G. J., McDougall, J. & Braithwaite, P.
+  link: 
+    url: http://ce561.ce.metu.edu.tr/files/2013/11/landfill-settlement-41.pdf                                                                                                                                                                                                                                                                                                               
+    display: pdf (2007)
+  highlight: 0
+
+- title: "Unsaturated hydraulic conductivity of landfilled waste"
+  authors: Kazimoglu, Y. K., McDougall, J. & Pyrah, I.
+  link: 
+    url: https://doi.org/10.1061/40802(189)127                                                                                                                                                                                                                                                                                                                
+    display: Fourth International Conference on Unsaturated Soils (2006)
+  highlight: 0
+
+- title: "Hydro-bio-mechanical modelling of landfilled waste : decomposition, density and moisture retention"
+  authors: McDougall, J. 
+  link: 
+    url: https://doi.org/10.1201/9781439833766                                                                                                                                                                                                                                                                                                               
+    display: Sixth European Conference on Numerical Methods in Geotechnical Engineering (2006)
+  highlight: 0
+
+- title: "Moisture retention and movement in landfilled waste"
+  authors: Kazimoglu, Y. K., McDougall, J., & Pyrah, I. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/255471                                                                                                                                                                                                                                                                                                                                      
+    display: Proceedings of the International Conference on Problematic Soils (2005)
+  highlight: 0
+
+- title: "Decomposition and settlement in landfilled waste and other soil-like materials"
+  authors: McDougall, J., Pyrah, I., Yuen, S.T.S., Monteiro, V.E.D., Melo, M.C. & Juca, J.F.T. 
+  link: 
+    url: https://doi.org/10.1680/geot.2004.54.9.605                                                                                                                                                                                                                                                                                                                                   
+    display: Géotechnique, 54(9), 605-609 (2004)
+  highlight: 0
+
+- title: "Options for modelling hydraulic hysteresis"
+  authors: Kazimoglu, Y.K., McDougall, J., & Pyrah, I.
+  link: 
+    url: https://doi.org/10.1201/9780203970805                                                                                                                                                                                                                                                                                                                                    
+    display: Proceedings of the Second International Workshop on Unsaturated Soils (2004)
+  highlight: 0
+
+- title: "Phase relations for decomposable soils"
+  authors: McDougall, J. & Pyrah, I.
+  link: 
+    url: https://doi.org/10.1680/geot.2004.54.7.487                                                                                                                                                                                                                                                                                                                                   
+    display: Géotechnique, 54(7), 487-493 (2004)
+  highlight: 0
+
+- title: "Extended phase relations and load effects in MSW"
+  authors: McDougall, J., Pyrah, I. & Yuen, S.T.S.
+  link: 
+    url: https://doi.org/10.1016/j.wasman.2003.10.009                                                                                                                                                                                                                                                                                                                                  
+    display: Waste Management, 24(3), 251-257 (2004)
+  highlight: 0
+
+- title: "Moisture retention curve in landfilled waste"
+  authors: Kazimoglu, Y.K., McDougall, J., & Pyrah, I. 
+  link: 
+    url: https://doi.org/10.1007/3-540-26736-0_5                                                                                                                                                                                                                                                                                                                                 
+    display: Unsaturated Soils - Experimental Studies, 59-67 (2003)
+  highlight: 0
+
+- title: "Effect of enhanced biodegradation on settlement of municipal solid waste landfills"
+  authors: Yuen, S.T.S. & McDougall, J. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/268879                                                                                                                                                                                                                                                                                                                                                         
+    display: Australian Geomechanics, 38, 17-28 (2002)
+  highlight: 0
+
+- title: "A biodegradacios hulladektarolas"
+  authors: Imre, E., McDougall, J., Farkas, J., Kovacs, M., Czap, Z., Monteiro, V. E. D. & Trang, P. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/267557                                                                                                                                                                                                                                                                                                                                                                               
+    display: Journal of the Hungarian Hydrological Society. 83, 374-379 (2002)
+  highlight: 0
