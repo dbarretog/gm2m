@@ -1,23 +1,23 @@
 ---
-title: "Allan Lab - Pictures"
+title: "GM2M - Gallery"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "GM2M - Gallery"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+<!-- # Pictures -->
+<!-- Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews) -->
+
+# Videos
+
+Prof. Hing-Ho Tsang's Guest Lecture "Geotechnical Seismic Isolation". Delivered on March 3<sup>rd</sup>, 2023 to our MSc students. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7d73nlwwA8A" frameborder="0" allowfullscreen></iframe>
 
 
-## Leiden
-
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
-
-#### Gallery
+# RSm trenches - shaking table testing
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.pictures_RSm %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -53,26 +53,10 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 <p> &nbsp; </p>
 
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
 
-
+<!-- Example image insertion 
 ## ETHZ
 From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
+</figure>  -->

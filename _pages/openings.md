@@ -52,5 +52,5 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 -->
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2006506.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2006506.jpg" width="95%">
 </figure>
