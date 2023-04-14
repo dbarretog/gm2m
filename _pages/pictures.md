@@ -5,16 +5,17 @@ excerpt: "GM2M - Gallery"
 permalink: /pictures/
 ---
 
-<!-- # Pictures -->
-<!-- Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews) -->
+Jump to: [Lectures](#guest-lectures), [RSm](#rsm-trenches---shaking-table-testing), [Teaching](#teaching-aids)
 
-# Videos
+# Guest lectures #
+
+Presentation delivered by Mariola Zielinska and Michael Reed from Atkins to our MSc students on March 31<sup>st</sup>. "Offshore Geotechnics - Basic Considerations and Jacket Foundation Design
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vcOsJWrBLM0" frameborder="0" allowfullscreen></iframe>
 
 Prof. Hing-Ho Tsang's Guest Lecture "Geotechnical Seismic Isolation". Delivered on March 3<sup>rd</sup>, 2023 to our MSc students. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7d73nlwwA8A" frameborder="0" allowfullscreen></iframe>
 
-
-# RSm trenches - shaking table testing
+# RSm trenches - shaking table testing #
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_RSm %}
@@ -52,6 +53,16 @@ Prof. Hing-Ho Tsang's Guest Lecture "Geotechnical Seismic Isolation". Delivered 
 {% endif %}
 
 <p> &nbsp; </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmgNIcaucdg" frameborder="0" allowfullscreen></iframe>
+
+# Teaching aids #
+
+Effect of short and high frequency earthquakes on multi-storey buildings
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIqV95gIf9o" frameborder="0" allowfullscreen></iframe>
+
+Cyclic triaxial test on SRm
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5z-nPGQiF1k" frameborder="0" allowfullscreen></iframe>
 
 
 <!-- Example image insertion 
