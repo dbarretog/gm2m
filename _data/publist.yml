@@ -1,3 +1,10 @@
+- title: "Soil parameters in terms of entropy coordinates"
+  authors: Imre, E., Firgi, T., Baille, W., Datcheva, M., Barreto, D., Feng, S. & Singh, V.
+  link:
+    url: https://www.erasmus.gr/microsites/1259
+    display: 8th International Conference on Unsaturated Soils (2023)
+  highlight: 0
+  
 - title: "Rubber-soil mixtures: use of grading entropy theory to evaluate stiffness and liquefaction susceptibility"
   image: BEE2023.jpg
   description: If you are interested on seeing how rubber content in rubber-sand mixtures (RSm) affects liquefaction susceptibility, stiffness and geomechanical behaviour, then this is a must read. We have used Juan Bernal-Sanchez's PhD data together with existing literature to investigate teh relationship between the PSD characteristics of RSm and their stiffness and susceptibility to liquefaction.
@@ -6,7 +13,7 @@
     url: https://link.springer.com/article/10.1007/s10518-023-01673-3
     display: Bulletin of Earthquake Engineering (2023)
   highlight: 1
-  
+
 - title: "Quantifying Particle Breakage and Its Evolution Using Breakage Indices and Grading Entropy Coordinates"
   image: fraction.jpg
   description: In this study, grading entropy coordinates are compared to three commonly used breakage indices (Br, Br* and IG). It is shown that grading entropy coordinates are advantageous over the traditional indices in quantifying subtle changes in the PSD evolution and directly provide further insight with regards to the individual fraction sizes.
@@ -23,7 +30,7 @@
     display: Proceedings of the 8th International Symposium for Engineering Education (2022)
   highlight: 0
 
-- title: "Dynamic Behaviour of a Geotechnical Seismic Isolation System with Rubber-Sand Mixtures to Enhance Seismic Protection"
+- title: "Dynamic behaviour of a geotechnical seismic isolation system with rubber-sand mixtures to enhance seismic protection"
   image: attenuation.JPG
   description: A Geotechnical Seismic Isolation (GSI) system is proposed in this study based on the use of Rubber-Soil mixtures (RSm) to facilitate the benefits of dynamic soil-foundation structure interaction. The results have shown that the rubber addition results in a reduction of the amplification at frequencies higher than the system natural frequency.
   authors: Bernal-Sanchez, J., McDougall, J., Miranda, M. & Barreto, D.
@@ -39,6 +46,15 @@
     display: Environmental Geotechnics, 9(2), 66-67 (2022)
   highlight: 0
 
+- title: "Recent advances in nature-inspired solutions for ground engineering (NiSE)"
+  image: NiSE2022.jpg
+  description: The paper draws on numerous recent advances made by the authors, and others, in imitating forms (e.g. synthetic fbres that imitate plant roots), materials (e.g. living composite materials, or living soil that imitate fungi and microbes), generative processes (e.g. managed decomposition of construction rubble to mimic weathering of aragonites to calcites), and functions (e.g. recreating the self-healing, selfproducing, and self-forming capacity of natural systems)
+  authors: Assadi-Langroudi, A., O'Kelly, B.C., Barreto, D., Cotecchia, F., Dicks, H., Ekinci, A., Garcia, F.E., Harbottle, M., Tagarelli, V., Jeferson, I, Maghoul, P., Masoero, E., El Mountassir, G., Muhunthan, B., Geng, X., Ghadr, S., Mirzababaei, M., Mitrani, H. & van Paassen, L.
+  link:
+    url: https://doi.org/10.1007/s40891-021-00349-9
+    display: International Journal of Geosynthetics and Ground Engineering, 8, 3 (2022)
+  highlight: 1
+  
 - title: "A guide to modeling the geotechnical behavior of soils using the discrete element method"
   image: DEM2021.jpg
   description: Thinking about using DEM and without enough time to read an entire book? This is a good place to start!
@@ -48,7 +64,35 @@
     display: Modeling in Geotechnical Engineering, Chapter 4, 79-100 (2021)
   highlight: 1
 
-- title: "Housing Construction On Peatland"
+- title: "Editorial. Themed issue on numerical methods of large strain deformation in geotechnical engineering"
+  authors: Barreto, D., Ciantia, M., & Osman, A.
+  link:
+    url: https://doi.org/10.1680/jgeen.2021.174.5.473                                          
+    display: Proceedings of the Institution of Civil Engineers - Geotechnical Engineering, 174(5), 473-475 (2021)
+  highlight: 0
+
+- title: "Some notes on granular mixtures with finite, discrete fractal distribution"
+  authors: Imre, E., Talata, I., Barreto, D., Datcheva, M., Baille, W., Georgiev, I., Fityus, S., Singh, V.P., Casini, F., Guida, G., Trang, P.Q. & Lőrincz, J.
+  link:
+    url: https://doi.org/10.3311/PPci.19103                                          
+    display: Periodica Polytechnica Civil Engineering, 66(1), 179-192 (2021)
+  highlight: 0
+
+- title: "Several cases of backward erosion/liquefaction piping from Hungary"
+  authors: Imre, E., Koch, E., Nagy, L., Illés, Z., Hortobágyi, Z., & Barreto, D.
+  link:
+    url: https://doi.org/10.53243/ISC2020-524                                         
+    display: Proceedings of the 6th International Conference on Geotechnical and Geophysical Site Characterization (2021)
+  highlight: 0
+
+- title: "Examination of saturated hydraulic conductivity using grading curve functions"
+  authors: Imre, E., Bálint, E. Á., Nagy, L., Lőrincz, J., Illés, Z., Barreto, D. & Feng, S.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/2968959                                                              
+    display: Proceedings of the 6th International Conference on Geotechnical and Geophysical Site Characterization (2021)
+  highlight: 0
+
+- title: "Housing construction on peatland"
   authors: Bernal-Sanchez, J., McDougall, J., Medero, G., Cook, D. & Barreto, D.
   link:
     url: http://researchrepository.napier.ac.uk/output/2963133                                           
@@ -85,6 +129,13 @@
     display: PhD thesis (2020)
   highlight: 0
 
+- title: "The saturated hydraulic conductivity of 2-fraction granular soils and the internal stability"
+  authors: Imre, E., Illés, Z., Bálint, Á., Barreto, D., Khaliunaa, A., Tsendsuren, B. & Guadalupe, L.L
+  link:
+    url: http://researchrepository.napier.ac.uk/output/2831421                                                               
+    display: Proceedinngs Book of 11th ICEEE – 2020 Conference, 267-274 (2020)
+  highlight: 0
+
 - title: "Particle-scale interaction in sand-rubber mixtures and their influence on energy dissipation mechanisms"
   authors: Fonseca, J., Riaz, A., Bernal-Sanchez, J., Barreto, D., McDougall, J., Miranda, M., Marinelli, A. & Dimitriadi, V.
   link:
@@ -98,12 +149,33 @@
     url: https://www.issmge.org/uploads/publications/51/75/0292-ecsmge-2019_Tsitsas.pdf
     display: Proceedings of the XVII European Conference on Soil Mechanics and Geotechnical Engineering (2019)
   highlight: 0
-  
-- title: "Grading entropy coordinates and criteria for evaluation of liquefaction potential"
-  authors: Barreto, D., Leak, J., Dimitriadi, V., McDougall, J., Imre, E. & Lőrincz, J.
+
+- title: "Grading curves and internal stability"
+  authors: Imre, E., Barreto, D., Talata, I., Baille, W., Rahemi, N., Goudarzy, M. & Singh, V.P.
   link:
-    url: https://www.taylorfrancis.com/books/edit/10.1201/9780429031274/earthquake-geotechnical-engineering-protection-development-environment-constructions-francesco-silvestri-nicola-moraci
-    display: Proceedings of the 7th International Conference on Earthquake Geotechnical Engineering (2019)
+    url: http://researchrepository.napier.ac.uk/output/2311173                        
+    display: Tudományos eredmények elismerése és disszeminációja a Dunaújvárosi Főiskolán. ISSN 2064-5007 (2019)
+  highlight: 0
+
+- title: "Reanalysis of some in situ compaction test results"
+  authors: Imre, E., Lorincz, J., Trang, P., Casini, F., Guida, G., Fityus, S., Barreto, D. & Singh, V.
+  link:
+    url: https://doi.org/10.32075/17ECSMGE-2019-0989
+    display: Proceedings of the XVII ECSMGE-2019 Geotechnical Engineering (2019)
+  highlight: 0
+  
+- title: "Preliminary study on the relationship between dry density of sands and the grading entropy parameters"
+  authors: Imre, E., Lorincz, J., Trang, P., Csonka, I., Kaczvinszki-Szabó, V., Telekes, G., Goudarzy, M., Rahemi, N., Baille, W., Schanz, T., Barreto, D., Fityus, S.& Singh, V.
+  link:
+    url: https://doi.org/10.32075/17ECSMGE-2019-0996                      
+    display: Proceedings of the XVII ECSMGE-2019 Geotechnical Engineering (2019)
+  highlight: 0
+
+- title: "A note on seismic induced liquefaction"
+  authors: Imre, E., Lőrincz, J., Trang, P., Barreto, D., Goudarzy, M., Rahemi, N., Baille, W., Schanz, T. & Singh, V. 
+  link:
+    url: https://doi.org/10.32075/17ECSMGE-2019-0979
+    display: Proceedings of the XVII ECSMGE-2019 Geotechnical Engineering (2019)
   highlight: 0
   
 - title: "Experimental assessment of stiffness and damping in rubber-sand mixtures at various strain levels"
@@ -113,11 +185,39 @@
     display: Earthquake Geotechnical Engineering for Protection and Development of Environment and Constructions, 1403-1410 (2019)
   highlight: 0
 
+- title: "X-ray tomography of sand-rubber mixtures"
+  authors: Fonseca, J., Riaz, A., & Barreto, D.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/2792755                        
+    display: International Conference on Tomography of Materials and Structures (2019)
+  highlight: 0
+
+- title: "Grading entropy coordinates and criteria for evaluation of liquefaction potential"
+  authors: Barreto, D., Leak, J., Dimitriadi, V., McDougall, J., Imre, E. & Lőrincz, J.
+  link:
+    url: https://www.taylorfrancis.com/books/edit/10.1201/9780429031274/earthquake-geotechnical-engineering-protection-development-environment-constructions-francesco-silvestri-nicola-moraci
+    display: Proceedings of the 7th International Conference on Earthquake Geotechnical Engineering (2019)
+  highlight: 0
+
+- title: "Editorial. The geoengineering approach to the study of rivers and reservoirs"
+  authors: Corbett, P. W., Owen, A., Hartley, A., Pla-Pueyo, S., Barreto, D., Hackney, C., & Kape, S.
+  link:
+    url: https://doi.org/10.1144/SP488-2018-98
+    display: Geological Society Special Publications (2019)
+  highlight: 0
+
 - title: "Particle loss :  An initial investigation into size effects and stress-dilatancy"
   authors: McDougall, J., Kelly, D. & Barreto, D.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0038080619300587?via%3Dihub                                                               
     display: Soils and Foundations, 59(3), 726-737 (2019)
+  highlight: 0
+
+- title: "Optical fiber sensor design for ground slope movement monitoring for railway safety operations"
+  authors: Hook, D., Laing, W., Kerrouche, A., Barreto, D., & Alwis, L.S.
+  link:
+    url: https://doi.org/10.1109/ICSENS.2018.8589835                                                                                    
+    display: 2018 IEEE Sensors (2018)
   highlight: 0
   
 - title: "Dynamic behaviour of shredded rubber soil mixtures"
@@ -125,6 +225,13 @@
   link:
     url: http://researchrepository.napier.ac.uk/output/1178811                                                                                      
     display: Proceedings of the 16th European Conference in Earthquake Engineering (2018)
+  highlight: 0
+
+- title: "The influence of particle-size distribution on critical state behavior of spherical and non-spherical particle assemblies"
+  authors: Jiang, M.D., Yang, Z.X., Barreto, D., & Xie, Y.H.
+  link:
+    url: https://doi.org/10.1007/s10035-018-0850-x                                                                                    
+    display: Granular Matter, 20(80) (2018)
   highlight: 0
 
 - title: "Strategies for one dimensional (1D) compression testing of large-particle-sized tire derived aggregate"
@@ -155,6 +262,27 @@
     display: Waste Management, 77, 294-303 (2018)
   highlight: 0
 
+- title: "DEM modelling of tunnelling-induced settlements – void ratio and rate of mass removal effects"
+  authors: Bosoc, L., Barreto Gonzalez, D., & Rouainia, M 
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1623010                                                                                                                                  
+    display: 6th European Conference on Computational Mechanics (Solids, Structures and Coupled Problems) (2018)
+  highlight: 0
+
+- title: "Influence of grading on shear stiffness - the significance of accurate description of particle size distributions"
+  authors: Barreto, D.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1622999
+    display: Computational Geomechanics - Book of Extended Abstracts, 14-15 (2018)
+  highlight: 0
+
+- title: "New method for rock qualification"
+  authors: János, L., Emőke, I., Phong. Q, T., Miklós, G., László, K., István, T., Barreto, D & Guida, G.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1162045                                                                                                                                                                               
+    display: Mérnökgeológia-Kőzetmechanika,  263-274 (2018)
+  highlight: 0
+
 - title: "Review and application of a settlement model for landfills"
   authors: Esteban-Altabella, J., McDougall, J., Colomer-Mendoza, F., Gallardo, A. & Edo-Alcon, N.
   link:
@@ -169,11 +297,46 @@
     display: Soil Dynamics and Earthquake Engineering, 100, 396-409 (2017)
   highlight: 0
 
-- title: "Experimental Assessment and Modelling of Coupled Biochemical-Physical-Mechanical Biodegradation Process of a Municipal Solid Waste Sample from Michigan"
+- title: "Preliminary study on the relationship between statistical entropy coordinates and the mechanical behaviour of granular materials"
+  authors: Barreto, D. & Imre, E. 
+  link:
+    url: http://researchrepository.napier.ac.uk/output/1637961
+    display: 14th Joint European Thermodynamics Conference (2017)
+  highlight: 0
+
+- title: "Experimental assessment and modelling of coupled biochemical-physical-mechanical biodegradation process of a municipal solid waste sample from Michigan"
   authors: Datta, S., Zekkos, D., Fei, X. & McDougall, J. 
   link:
     url: http://researchrepository.napier.ac.uk/output/948531                                                                                                                                
     display: Second International Symposium on Coupled Phenomena in Environmental Geotechnics (2017)
+  highlight: 0
+
+- title: "The influence of particle geometry and the intermediate stress ratio on the shear behavior of granular materials"
+  authors: Xie, Y.H., Yang, Z.X., Barreto, D., & Jiang, M.D. 
+  link:
+    url: https://doi.org/10.1007/s10035-017-0723-8                                                                                                                               
+    display: Granular Matter, 19(2), 34-48 (2017)
+  highlight: 0
+
+- title: "The influence of particles’ aspect ratio on the shear behaviour of granular materials"
+  authors: Xie, Y. H., Yang, Z. X., & Barreto, D.
+  link:
+    url: https://doi.org/10.1007/978-981-10-1926-5_29                                                                                                                              
+    display: Proceedings of the 7th International Conference on Discrete Element Methods, 253-264 (2016)
+  highlight: 0
+
+- title: "Revisiting the particle size effects in centrifuge modelling"
+  authors: Nadimi, S., Fonseca, J., Taylor, R.N. & Barreto, D. 
+  link:
+    url: http://researchrepository.napier.ac.uk/output/834476                                                                                                                                                     
+    display: EUROFUGE 2016 - 3rd European Conference on Physical Modelling in Geotechnics, 85-90 (2016)
+  highlight: 0
+
+- title: "Micromechanical insight into the undrained instability of granular materials: deformation characteristics of geomaterials"
+  authors: Barreto, D., Prada-Sarmiento, L. F., & Ramos-Cañón, A. M. 
+  link:
+    url:  https://doi.org/10.3233/978-1-61499-601-9-655                                                                                                                               
+    display: Deformation Characteristics of Geomaterials, 655-662 (2015)
   highlight: 0
 
 - title: "Numerical analysis of liquefaction affected shallow foundations performance on improved ground"
@@ -203,6 +366,20 @@
     url: https://www.icevirtuallibrary.com/doi/abs/10.1680/ecsmge.60678.vol7.679                                                                                                                                                                            
     display: XVI European Conference on Soil Mechanics and Geotechnical Engineering (2015)
   highlight: 0
+  
+- title: "Significance of DEM input parameters on the modelling of low strength soft rock mechanical behaviour"
+  authors: Barreto, D., Rouainia, M., & Simpson, D.
+  link:
+    url: http://researchrepository.napier.ac.uk/output/176154                                                                                                                                                               
+    display: Geomechanics from Micro to Macro. CRC Press, 403-407 (2014)
+  highlight: 0
+
+- title: "Use of DEM and elastic stability analysis to explain the influence of the intermediate principal stress on shear strength"
+  authors: O'Sullivan, C., Wadee, M., Hanley, K., & Barreto, D.
+  link:
+    url: https://doi.org/10.1680/geot.12.p.153                                                                                                                                                              
+    display: Géotechnique, 63(15), 1298-1309 (2013)
+  highlight: 0
 
 - title: "Numerical simulation of seismically induced settlements of shallow foundations on remediated ground against liquefaction"
   authors: Dimitriadi, V. & Bouckovalas, G.  
@@ -231,6 +408,13 @@
     url: https://link.springer.com/article/10.1007/s11440-013-0212-0                                                                                                                                                                                            
     display: Acta Geotechnica, 8, 619–627 (2013)
   highlight: 0
+  
+- title: "Quantifying stress-induced anisotropy using inter-void constrictions"
+  authors: Shire, T., O'Sullivan, C., Barreto, D., & Gaudray, G.
+  link: 
+    url: https://doi.org/10.1680/geot.11.t.020                                                                                                                                                                                           
+    display: Géotechnique, 63(1), 85-91 (2013)
+  highlight: 0
 
 - title: "Effect of particle loss on soil behaviour"
   authors: Kelly, D., McDougall, J. & Barreto, D.
@@ -246,6 +430,20 @@
     display: Paper presented at 2nd International Conference on Performance-Based Design in Earthquake Geotechnical Engineering (2012)
   highlight: 0
 
+- title: "The use of electronic voting systems to enhance deep learning"
+  authors: Barreto, D. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/189940                                                                                                                                                                                                                                              
+    display: Proceedings of the International Conference on Geo-engineering Education (2012)
+  highlight: 0
+
+- title: "The influence of inter-particle friction and the intermediate stress ratio on soil response under generalised stress conditions"
+  authors: Barreto, D., & O'Sullivan, C. 
+  link: 
+    url: https://doi.org/10.1007/s10035-012-0354-z                                                                                                                                                                                                                                            
+    display: Granular Matter, 14(4), 505-521 (2012)
+  highlight: 0
+
 - title: "Settlement -The short and the long of it"
   authors: McDougall, J.
   link: 
@@ -257,7 +455,21 @@
   authors: Bouckovalas, G., Dimitriadi, V., Tsiapas, Y. & Tsioulou, A.
   link: 
     url:  http://researchrepository.napier.ac.uk/output/1182188                                                                                                                                                                                                                                               
-    display: Paper presented at 5th International Conference on Earthquake Geotechnical Engineering (2011)
+    display: 5th International Conference on Earthquake Geotechnical Engineering (2011)
+  highlight: 0
+
+- title: "Exploring the effects of stress history on the drained and undrained cyclic behaviour of granular materials"
+  authors: Barreto, D.
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/281054                                                                                                                                                                                                                                                                       
+    display: 5th International Conference on Earthquake Geotechnical Engineering (2011)
+  highlight: 0
+
+- title: "Using DEM for the assessment of K<sub>0</sub> in soils"
+  authors: Barreto, D.
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/200415                                                                                                                                                                                                                                                                                            
+    display: Fifth International Conference on Discrete Element Methods - DEM5, 440-445 (2010)
   highlight: 0
 
 - title: "Parametric investigation of lateral spreading in free-face ground formations"
@@ -281,6 +493,20 @@
     display: 12th International Waste Management and Landfill Symposium (2009)
   highlight: 0
 
+- title: "Quantifying the evolution of soil fabric under different stress paths"
+  authors: Barreto, D., O’Sullivan, C., & Zdravkovic, L. 
+  link: 
+    url: https://doi.org/10.1063/1.3179881                                                                                                                                                                                                                                                                                                               
+    display: Powders & Grains, 181-184, (2009)
+  highlight: 0
+
+- title: "Radial periodic boundaries for axi-symmetric DEM simulations: development, implementation and validation"
+  authors: O'Sullivan, C., Cui, L., & Barreto, D. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/225424                                                                                                                                                                                                                                                                                                                                      
+    display: International Conference on Particle-Based Methods - Particles (2009)
+  highlight: 0
+
 - title: "Fail-safe engineering for landfill aftercare : towards sustainable waste management?"
   authors: Hall, D. H., Drury, D. & McDougall, J.  
   link: 
@@ -295,11 +521,32 @@
     display: Proceedings of the Institution of Civil Engineers - Waste and Resource Management, 161(4), 147-153 (2008)
   highlight: 0
 
+- title: "Evolution of soil fabric and its interpretation using different methods"
+  authors: Barreto, D. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/281049                                                                                                                                                                                                                                                                                                                                                             
+    display: British Geotechnical Association (BGA) Young Geotechnical Engineers' Symposium (2008)
+  highlight: 0
+
 - title: "Geomechanics and long-term landfill settlement"
   authors: McDougall, J.  
   link: 
     url: https://doi.org/10.1061/40970(309)24                                                                                                                                                                                                                                                                                                                                      
     display: GeoCongress 2008 - Geotechnics of Waste Management and Remediation (2008)
+  highlight: 0
+
+- title: "DEM simulations of granular materials involving principal stress rotation"
+  authors: Barreto, D., O'Sullivan, C., & Zdravkovic, L.  
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/231992                                                                                                                                                                                                                                                                                                                                                              
+    display: Inaugural International Conference of the Engineering Mechanics Institute (2008)
+  highlight: 0
+
+- title: "Specimen generation approaches for DEM simulations"
+  authors: Barreto, D., O'Sullivan, C. & Zdravkovic, L.
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/234754                                                                                                                                                                                                                                                                                                                                     
+    display: Proceedings of the 4th International Symposium on Deformation Characteristics of Geomaterials, 901-906 (2007)
   highlight: 0
 
 - title: "A hydro-bio-mechanical model for settlement and other behaviour in landfilled waste"
@@ -370,6 +617,13 @@
   link: 
     url: https://doi.org/10.1016/j.wasman.2003.10.009                                                                                                                                                                                                                                                                                                                                  
     display: Waste Management, 24(3), 251-257 (2004)
+  highlight: 0
+
+- title: "Design of geotechnical structures according to Eurocode 7 and other International standards (in Spanish)"
+  authors: Barreto, D. 
+  link: 
+    url: http://researchrepository.napier.ac.uk/output/257626                                                                                                                                                                                                                                                                                                                                                         
+    display: X Conference and V Colombian Congress on Geotechnics (2004)
   highlight: 0
 
 - title: "Moisture retention curve in landfilled waste"
