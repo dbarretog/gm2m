@@ -10,9 +10,9 @@ title: GM2M
 email: d.barreto@napier.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Website of GM2M.
-baseurl: "/gm2m"
+#baseurl: "/gm2m"
 #baseurl: "" # add for working on Jekyll, then comment and replace by line above
-url: ""
+url: "http://www.gm2m.uk"
 
 include:
   - .htaccess
