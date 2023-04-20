@@ -1,7 +1,7 @@
 ---
 title: "GM2M - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "GM2M at Edinburgh Napier University."
 sitemap: false
 permalink: /
 ---
@@ -64,9 +64,9 @@ We also use techniques such as x-Ray micro-computed tomography, soil element and
 statistical concepts (i.e. grading entropy) to understand how micro-scale (particulate) properties affect macro-scale soil behaviour such as that observed 
 for shallow and deep foundations, retaining walls, and landfill facilities, amongst others.
 
-We are located at Edinburgh Napier University, assessed in REF2021 as the top Scottish modern university for both research power and research impact 
-with 68 per cent of our research is now assessed as “internationally excellent” or “world leading”. We also exchange ideas and work with our colleagues 
-from the [Geotechnical Seismic Isolation Global Network](https://www.gsi-global.org/home), and Edinburgh Napier's the Centre for Conservation and Restoration Science.
+We are located at Edinburgh Napier University, assessed in REF2021 as the top Scottish modern university for both research power and research impact with 
+68 per cent of our research now assessed as “internationally excellent” or “world leading”. We also exchange ideas and work with our colleagues 
+from the [Geotechnical Seismic Isolation Global Network](https://www.gsi-global.org/home), and Edinburgh Napier's Centre for Conservation and Restoration Science.
 
  **We are always looking for passionate new PhD students, Postdocs, and Master students to join the team** 
 
