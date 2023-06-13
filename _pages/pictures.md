@@ -61,7 +61,7 @@ Prof. Hing-Ho Tsang's Guest Lecture "Geotechnical Seismic Isolation". Delivered 
 [NANGE 2023](http://www.nange.info/)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Conferences/Assisi2023.jpg" width="60%">
-</figure>  -->
+</figure> 
 
 # Teaching aids #
 
@@ -72,9 +72,3 @@ Cyclic triaxial test on SRm
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5z-nPGQiF1k" frameborder="0" allowfullscreen></iframe>
 
 
-<!-- Example image insertion 
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>  -->
