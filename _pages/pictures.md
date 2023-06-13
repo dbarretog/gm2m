@@ -58,7 +58,7 @@ Prof. Hing-Ho Tsang's Guest Lecture "Geotechnical Seismic Isolation". Delivered 
 
 # Conferences #
 
-[NANGE 2023](http://www.nange.info/).
+[NANGE 2023](http://www.nange.info/)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Conferences/Assisi2023.jpg" width="60%">
 </figure>  -->
