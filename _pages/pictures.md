@@ -5,7 +5,7 @@ excerpt: "GM2M - Gallery"
 permalink: /pictures/
 ---
 
-Jump to: [Lectures](#guest-lectures), [RSm](#rsm-trenches---shaking-table-testing), [Teaching](#teaching-aids)
+Jump to: [Lectures](#guest-lectures), [RSm](#rsm-trenches---shaking-table-testing), [Conferences](#conferences), [Teaching](#teaching-aids)
 
 # Guest lectures #
 
@@ -55,6 +55,46 @@ Prof. Hing-Ho Tsang's Guest Lecture "Geotechnical Seismic Isolation". Delivered 
 <p> &nbsp; </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmgNIcaucdg" frameborder="0" allowfullscreen></iframe>
+
+# Conferences #
+
+(Right-click *'view image'* to see a larger image.)
+{% assign number_printed = 0 %}
+{% for pic in site.data.pictures_Conferences %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Conferences/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd > 2 %}
+</div>
+{% endif %}
+
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
 
 # Teaching aids #
 

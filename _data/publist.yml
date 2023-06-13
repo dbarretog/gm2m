@@ -1,3 +1,12 @@
+- title: "Use of hydraulic radius to estimate the permeability of coarse-grained materials using a new geodatabase"
+  image: Kequation.jpg
+  description: Interested on predicting permeability for coarse-granied materials? Based on the fantastic work of Dr Shuyin Feng, a dimensional homogenous transformation model for a-priori estimation of soil permeability was calibrated using a large database. We are not saying you should not perform permeability tests though!
+  authors: Feng, S., Barreto, D., Imre, E. Ibraim, I & Vardanega, P.J.
+  link:
+    url: https://doi.org/10.1016/j.trgeo.2023.101026
+    display: Transportation Geotechnics (2023)
+  highlight: 1
+
 - title: "Carbon impact & mitigation of housing developments on peatlands in the UK - A case study"
   authors: Bernal-Sanchez, J. & Gaspari, A.
   link:
