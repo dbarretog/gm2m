@@ -27,7 +27,7 @@ Prof. Hing-Ho Tsang's Guest Lecture "Geotechnical Seismic Isolation". Delivered 
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/RSm{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
