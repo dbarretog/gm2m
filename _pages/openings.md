@@ -28,10 +28,8 @@ You find the past job openings here:
 
 We are currently advertising a few PhD positions. Please follow the links below for further information:
 
-- [Geotechnical Seismic Isolation Technology for Global Earthquake Resilience and Environmental Sustainability](https://www.findaphd.com/phds/project/geotechnical-seismic-isolation-technology-for-global-earthquake-resilience-and-environmental-sustainability/?p152317)
 - [Environmental Impact of Construction on Peatlands](https://www.findaphd.com/phds/project/environmental-impact-of-construction-on-peatlands/?p152325)
 - [The influence of particle characteristics on the field-scale geomechanical behaviour of soils](https://www.findaphd.com/phds/project/the-influence-of-particle-characteristics-on-the-field-scale-geomechanical-behaviour-of-soils/?p152108)
-- [From 3D Digital Documentation to Structural interventions for historic masonry structures](https://www.findaphd.com/phds/project/from-3d-digital-documentation-to-structural-interventions-for-historic-masonry-structures/?p152235)
 
 If you are interested in working with us as a PhD student or postdoc, please send us an [email](mailto:d.barreto@napier.ac.uk). 
 State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. 
@@ -39,8 +37,7 @@ No need for a separate cover letter or certificates. **Important**: please inser
 If you are applying to a specific advertisement, note this in your email.
 
 We especially welcome postdocs with fellowships. We wouldd be happy to support you, also after you apply to our group. Take a look at the
-Marie Curie fellowship (next call will open April 12, 2023, 
-[see for details](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). I
+Marie Curie Fellowship (Call closing on 13 September 2023). [See for details](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). I
 In many countries, there are also fellowships available for outdoing postdocs.**
 
 
